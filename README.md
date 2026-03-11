@@ -1,7 +1,35 @@
-### Introduction
-📊 Dive into the data job market! Focusing on data analyst roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data analytics.
+# Data Analyst Job Market Analysis (SQL Project)
+
+## Introduction
+
+This project analyzes the data analyst job market using SQL.  
+The goal is to identify:
+
+- Top paying data analyst jobs
+- Most in-demand skills
+- Highest paying skills
+- Optimal skills to learn
+
+The dataset includes job postings with salary, company, location, and required skills.
 
 🔍 SQL queries? Check them out here: [project_sql folder](/project_sql/)
+
+## Dataset
+
+The dataset contains job postings for data-related roles and includes:
+
+- Job title
+- Company name
+- Salary
+- Location
+- Required skills
+
+Tables used:
+
+- job_postings_fact
+- company_dim
+- skills_job_dim
+- skills_dim
 
 ### Background
 Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.
@@ -237,3 +265,9 @@ Throughout this adventure, I've turbocharged my SQL toolkit with some serious fi
 ### Closing Thoughts
 
 This project enhanced my SQL skills and provided valuable insights into the data analyst job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspiring data analysts can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data analytics.
+
+## Author
+
+Prashant Chavda  
+Aspiring Data Analyst  
+Mumbai, India
